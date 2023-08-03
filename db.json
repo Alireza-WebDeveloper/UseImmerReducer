@@ -1,0 +1,19 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "javascript",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit"
+    },
+    {
+      "title": "bootstrap",
+      "description": "react",
+      "id": 2
+    },
+    {
+      "title": "javascript",
+      "description": "mvc",
+      "id": 3
+    }
+  ]
+}
